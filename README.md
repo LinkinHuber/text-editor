@@ -40,10 +40,10 @@
 - THEN I should have proper build scripts for a webpack application
 
 ## Link to deployed application
-- 
+- https://text-editor-p-w-a.herokuapp.com/
 
 ## Screenshot of webpage
-![Screenshot of home page]()
+![Screenshot of home page](./images/Screenshot%202023-06-05%20235628.png)
 
 ## Questions?
   - If you have any additional questions please feel free to reach out to me!
